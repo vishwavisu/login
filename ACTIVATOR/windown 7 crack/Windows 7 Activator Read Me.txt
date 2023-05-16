@@ -1,0 +1,45 @@
+Windows 7 RTM Ultimate Activation with OEM Information
+
+Activator Highlights
+--------------------
+- This activator works with all versions.
+- Tested and working on both x86 and x64.
+- Works in Virtual Environment.
+- Works with dual-boot
+- No key is needed for install or activation.
+- The activation adds the OEM master key for you.
+- "OEM" Brand is left up to end-user.
+- No BIOS modification needed.
+- It has no text during boot. (Vista activators had this)
+- Uses OEM SLP method.
+- Supports SLIC and non-SLIC enabled BIOS.
+- Emulate a SLIC 2.1 enabled BIOS on a PC without SLIC 2.1 present...
+- User friendly.
+- Interface has a G.U.I for interaction.
+
+Installation Tips
+-----------------
+- It is recommended to do a clean install of Windows 7 but not necessary as it has tested to work with upgrades as well.
+- You must remove all modifications made by previous 7Loaders and Orbit30 Win7 Tool Kit (1.8 toolkit was for pre-RTM).
+- Disable "UAC" to be safe.
+
+1. Run the '7Loader' on your Windows Partition
+2. Select your desired "OEM" Brand
+3. Wait for the pop-up to appear
+4. Click "Install 7Loader"
+5. Wait for the pop-up to appear
+6. Press "OK" and PC will reboot once complete
+
+Special Notations
+-----------------
+- If you have a modded BIOS, instead of clicking "Install 7Loader".. you can just use the "SLIC 2.1 in BIOS" to install the certificate & key to activate without having to use the loader.
+
+
+RudeBoySes @ www.ForumW.Org / RudeBoySes@GMail.Com
+--------------------------------------------------
+- This activator has been put to the test by me & friends!
+- Tested on clean installs.
+- Tested on upgrades.
+- Tested on all versions.
+- Tested on both x86 / x64 Systems.
+- Passed with flying colors !

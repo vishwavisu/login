@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\SATHYA\AppData\Local\Temp\Rar$EXa0.947\KMSAuto Easy 1.06.V6\TunMirror.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\SATHYA\AppData\Local\Temp\Rar$EXa0.947\KMSAuto Easy 1.06.V6\TunMirror.InstallLog
+   assemblypath = C:\Users\SATHYA\AppData\Local\Temp\Rar$EXa0.947\KMSAuto Easy 1.06.V6\TunMirror.exe
+Installing service TunMirror...
+Service TunMirror has been successfully installed.
+Creating EventLog source TunMirror in log Application...
+Committing assembly 'C:\Users\SATHYA\AppData\Local\Temp\Rar$EXa0.947\KMSAuto Easy 1.06.V6\TunMirror.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\SATHYA\AppData\Local\Temp\Rar$EXa0.947\KMSAuto Easy 1.06.V6\TunMirror.InstallLog
+   assemblypath = C:\Users\SATHYA\AppData\Local\Temp\Rar$EXa0.947\KMSAuto Easy 1.06.V6\TunMirror.exe
